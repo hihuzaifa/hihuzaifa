@@ -42,10 +42,6 @@ I'm a final-year Electrical Engineering diploma student with a strong focus on c
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hihuzaifa)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hihuzaifa747@gmail.com)
 
-<!-- 
-Optional: Add your GitHub stats card below! 
-You can generate one at: https://github.com/anuraghazra/github-readme-stats
--->
